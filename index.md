@@ -7,4 +7,6 @@ After you type :# you will need to put a space between it and the content you wa
 # 3. An additional note
 You can bold up to 6 lines
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 This page gives simple steps on how to bold tiles using the markdown methodology that was taught during this lesson. The fun part is that it is also using the markdown methodology that it is teaching.
